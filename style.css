@@ -150,7 +150,7 @@ img{
     color: var(--nutmegColor);
 }
 /* Responsive */
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 767px) {
     .recipe{
         width: 90%;
         padding: 0;
